@@ -12,6 +12,7 @@ port = 8888
 host = "0.0.0.0"
 scores = {"pete": 4, "john": 1, "timmy": 3}  # Some initial data for testing
 
+#TESTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 
 # Schema used to validate scores POST payload so only specified fields are accepted
 class ScoreSchema(Schema):
